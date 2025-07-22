@@ -30,12 +30,12 @@ cd task-manager
 
 ## ▶️ Run the Server
 
-Make sure you're in the root folder of your project, then:
-
-### 🛠️ Development Mode (with auto-reload)
+## 🚀 Start the Server
 
 ```bash
-npm run dev'
+npm i
+npm run dev
+
 
 
 
